@@ -3,8 +3,8 @@
 
 Contributors: Joshua Kelly
 
-| [Introduction](#introduction) | [Specs and EIPs](#eips) | [Implementations](#implementations)
-| ------------- | ------------- |
+| [Introduction](#introduction) | [Specs and EIPs](#specs-and-eips) | [Protocol Implementations](#protocol-implementations) | [Apps](#apps) | [Tools](#tools)
+| ------------- | ------------- |------------- | ------------- | ------------- |
 
 ## Introduction
 
