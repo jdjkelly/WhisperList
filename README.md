@@ -32,9 +32,14 @@ Contributors: Joshua Kelly
 - [v2 (Geth)](https://github.com/ethereum/go-ethereum/tree/master/whisper/whisperv2)
 - [mailserver (Geth)](https://github.com/ethereum/go-ethereum/tree/master/whisper/mailserver)
 - [shh (Geth)](https://github.com/ethereum/go-ethereum/tree/master/whisper/shhclient)
+- [shh (web3.js)](https://github.com/ethereum/wiki/wiki/JavaScript-API#web3shh)
+- [shh (Parity)](https://github.com/paritytech/parity/wiki/JSONRPC-shh-Module#the-shh-module)
 
 ## Apps
 - [whisper-chat-example](https://github.com/gballet/whisper-chat-example)
+- [Whisper Chat Client Dapp](https://github.com/ethereum/meteor-dapp-whisper-chat-client)
+- [psst](https://github.com/d11e9/psst)
+- [Whisper Push Notifications](https://github.com/status-im/status-go/wiki/Whisper-Push-Notifications)
 
 ## Tools
 - [Wnode (Geth)](https://github.com/ethereum/go-ethereum/wiki/Diagnostic-Tool-wnode)
